@@ -1,0 +1,190 @@
+[
+  {
+    "source": "^Completar a ação através do Salvar telefone$",
+    "steps": [
+      {
+        "name": "Completar a ação através do Salvar telefone",
+        "aggregatedDurations": {
+          "average": 0.190150211,
+          "median": 0.190150211
+        },
+        "durations": [
+          {
+            "duration": 0.190150211,
+            "location": "EdicaoInline.feature:25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Completar a ação através do Salvar nome$",
+    "steps": [
+      {
+        "name": "Completar a ação através do Salvar nome",
+        "aggregatedDurations": {
+          "average": 0.187353054,
+          "median": 0.187353054
+        },
+        "durations": [
+          {
+            "duration": 0.187353054,
+            "location": "EdicaoInline.feature:10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Alterar o nome \"(.*?)\"$",
+    "steps": [
+      {
+        "name": "Alterar o nome \"Carol Cruz\"",
+        "aggregatedDurations": {
+          "average": 0.557167025,
+          "median": 0.557167025
+        },
+        "durations": [
+          {
+            "duration": 0.557167025,
+            "location": "EdicaoInline.feature:9"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Alterar o email \"(.*?)\"$",
+    "steps": [
+      {
+        "name": "Alterar o email \"lolicruz@gmail.com\"",
+        "aggregatedDurations": {
+          "average": 1.087350745,
+          "median": 1.087350745
+        },
+        "durations": [
+          {
+            "duration": 1.087350745,
+            "location": "EdicaoInline.feature:16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Verificar que a troca do email foi feita com sucesso$",
+    "steps": [
+      {
+        "name": "Verificar que a troca do email foi feita com sucesso",
+        "aggregatedDurations": {
+          "average": 1.71586729,
+          "median": 1.71586729
+        },
+        "durations": [
+          {
+            "duration": 1.71586729,
+            "location": "EdicaoInline.feature:18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Acessar a página de edição inline do site do Elias Nogueira$",
+    "steps": [
+      {
+        "name": "Acessar a página de edição inline do site do Elias Nogueira",
+        "aggregatedDurations": {
+          "average": 0.771141461,
+          "median": 0.49300946
+        },
+        "durations": [
+          {
+            "duration": 1.451210761,
+            "location": "EdicaoInline.feature:8"
+          },
+          {
+            "duration": 0.49300946,
+            "location": "EdicaoInline.feature:15"
+          },
+          {
+            "duration": 0.369204164,
+            "location": "EdicaoInline.feature:23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Verificar que a troca do nome foi feita com sucesso$",
+    "steps": [
+      {
+        "name": "Verificar que a troca do nome foi feita com sucesso",
+        "aggregatedDurations": {
+          "average": 1.733618394,
+          "median": 1.733618394
+        },
+        "durations": [
+          {
+            "duration": 1.733618394,
+            "location": "EdicaoInline.feature:11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Alterar o telefone \"(.*?)\"$",
+    "steps": [
+      {
+        "name": "Alterar o telefone \"21 21222121\"",
+        "aggregatedDurations": {
+          "average": 0.456111024,
+          "median": 0.456111024
+        },
+        "durations": [
+          {
+            "duration": 0.456111024,
+            "location": "EdicaoInline.feature:24"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Completar a ação através do Salvar email$",
+    "steps": [
+      {
+        "name": "Completar a ação através do Salvar email",
+        "aggregatedDurations": {
+          "average": 0.200525477,
+          "median": 0.200525477
+        },
+        "durations": [
+          {
+            "duration": 0.200525477,
+            "location": "EdicaoInline.feature:17"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Verificar que a troca do telefone foi feita com sucesso$",
+    "steps": [
+      {
+        "name": "Verificar que a troca do telefone foi feita com sucesso",
+        "aggregatedDurations": {
+          "average": 1.71650361,
+          "median": 1.71650361
+        },
+        "durations": [
+          {
+            "duration": 1.71650361,
+            "location": "EdicaoInline.feature:26"
+          }
+        ]
+      }
+    ]
+  }
+]

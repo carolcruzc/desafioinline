@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="16.156415">
+<testcase classname="Edição Inline" name="Realizando a alteração do nome" time="8.40354">
+<system-out><![CDATA[Given Acessar a página de edição inline do site do Elias Nogueira...........passed
+And Alterar o nome "Carol Cruz".............................................passed
+When Completar a ação através do Salvar nome................................passed
+Then Verificar que a troca do nome foi feita com sucesso....................passed
+]]></system-out>
+</testcase>
+<testcase classname="Edição Inline" name="Realizando a alteração do email" time="3.576595">
+<system-out><![CDATA[Given Acessar a página de edição inline do site do Elias Nogueira...........passed
+And Alterar o email "lolicruz@gmail.com"....................................passed
+When Completar a ação através do Salvar email...............................passed
+Then Verificar que a troca do email foi feita com sucesso...................passed
+]]></system-out>
+</testcase>
+<testcase classname="Edição Inline" name="Realizando a alteração do telefone" time="4.17628">
+<system-out><![CDATA[Given Acessar a página de edição inline do site do Elias Nogueira...........passed
+And Alterar o telefone "21 21222121"........................................passed
+When Completar a ação através do Salvar telefone............................passed
+Then Verificar que a troca do telefone foi feita com sucesso................passed
+]]></system-out>
+</testcase>
+</testsuite>

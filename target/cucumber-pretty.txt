@@ -1,0 +1,21 @@
+#encoding: iso-8859-1
+Feature: Edição Inline
+  Eu quero realizar a edição inline do site do Elias Nogueira
+
+  Scenario: Realizando a alteração do nome                            [90m# EdicaoInline.feature:7[0m
+    [32mGiven [0m[32mAcessar a página de edição inline do site do Elias Nogueira[0m [90m# EdicaoInlineTestSteps.acessar_a_página_de_edição_inline_do_site_do_Elias_Nogueira()[0m
+    [32mAnd [0m[32mAlterar o nome "[0m[32m[1mCarol Cruz[0m[32m"[0m                                   [90m# EdicaoInlineTestSteps.alterar_o_nome(String)[0m
+    [32mWhen [0m[32mCompletar a ação através do Salvar nome[0m                      [90m# EdicaoInlineTestSteps.completar_a_ação_através_do_Salvar_nome()[0m
+    [32mThen [0m[32mVerificar que a troca do nome foi feita com sucesso[0m          [90m# EdicaoInlineTestSteps.verificar_que_a_troca_do_nome_foi_feita_com_sucesso()[0m
+
+  Scenario: Realizando a alteração do email                           [90m# EdicaoInline.feature:14[0m
+    [32mGiven [0m[32mAcessar a página de edição inline do site do Elias Nogueira[0m [90m# EdicaoInlineTestSteps.acessar_a_página_de_edição_inline_do_site_do_Elias_Nogueira()[0m
+    [32mAnd [0m[32mAlterar o email "[0m[32m[1mlolicruz@gmail.com[0m[32m"[0m                          [90m# EdicaoInlineTestSteps.alterar_o_email(String)[0m
+    [32mWhen [0m[32mCompletar a ação através do Salvar email[0m                     [90m# EdicaoInlineTestSteps.completar_a_ação_através_do_Salvar_email()[0m
+    [32mThen [0m[32mVerificar que a troca do email foi feita com sucesso[0m         [90m# EdicaoInlineTestSteps.verificar_que_a_troca_do_email_foi_feita_com_sucesso()[0m
+
+  Scenario: Realizando a alteração do telefone                        [90m# EdicaoInline.feature:22[0m
+    [32mGiven [0m[32mAcessar a página de edição inline do site do Elias Nogueira[0m [90m# EdicaoInlineTestSteps.acessar_a_página_de_edição_inline_do_site_do_Elias_Nogueira()[0m
+    [32mAnd [0m[32mAlterar o telefone "[0m[32m[1m21 21222121[0m[32m"[0m                              [90m# EdicaoInlineTestSteps.alterar_o_telefone(String)[0m
+    [32mWhen [0m[32mCompletar a ação através do Salvar telefone[0m                  [90m# EdicaoInlineTestSteps.completar_a_ação_através_do_Salvar_telefone()[0m
+    [32mThen [0m[32mVerificar que a troca do telefone foi feita com sucesso[0m      [90m# EdicaoInlineTestSteps.verificar_que_a_troca_do_telefone_foi_feita_com_sucesso()[0m
